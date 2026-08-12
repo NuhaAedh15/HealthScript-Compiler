@@ -1,0 +1,6 @@
+
+ start
+ var int x;
+ x = 5 + 3;
+Print x;
+ finish
